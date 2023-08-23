@@ -1,15 +1,15 @@
-<b>ทำการติดตั้ง</b>
+<b>ทำการติดตั้ง</b> <br>
 Spring Boot Framework Version 2.6.10 <br>
 JAVA JDK Version 17 <br>
 PostgreSQl Version 14.9.1 <br>
 DBeaver <br>
 <br>
-<b>ไฟล์ pom.xml</b>
+<b>ไฟล์ pom.xml</b> <br>
 เชื่อมกับ Swagger ใช้ Maven Repository<br>
 SpringDoc OpenAPI UI Version 1.6.5 <br>
 Swagger Annotations Version 1.5.20 <br>
 <br>
-<b>การทดสอบ</b>
+<b>การทดสอบ</b> <br>
 ใช้โปรแกรม DBeaver เข้าถึงฐานข้อมูล <br>
 แถบบนเลือก Database > New Datebase Connection <br>
 จะโชว์หน้าต่าง Connect to a database เลือก PostgreSQl แล้วใส่ข้อมูลตามนี้<br>
