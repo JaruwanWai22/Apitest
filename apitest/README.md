@@ -1,8 +1,8 @@
 <b>ทำการติดตั้ง</b> <br>
-Spring Boot Framework Version 2.6.10 <br>
-JAVA JDK Version 17 <br>
-PostgreSQl Version 14.9.1 <br>
-DBeaver <br>
+  Spring Boot Framework Version 2.6.10 <br>
+  JAVA JDK Version 17 <br>
+  PostgreSQl Version 14.9.1 <br>
+  DBeaver <br>
 <br>
 <b>ไฟล์ pom.xml</b> <br>
 เชื่อมกับ Swagger ใช้ Maven Repository<br>
